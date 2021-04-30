@@ -1,0 +1,111 @@
+
+[
+    {
+        "id": 1,
+        "name":"Arc'teryx"
+    },
+    {
+        "id": 2,
+        "name":"Big Agnes"
+    },
+    {
+        "id": 3,
+        "name":"Black Diamond"
+    },
+    {
+        "id": 4,
+        "name":"Burton"
+    },
+    {
+        "id": 5,
+        "name":"Camelbak"
+    },
+    {
+        "id": 6,
+        "name":"Columbia"
+    },
+    {
+        "id": 7,
+        "name":"Cotopaxi"
+    },
+    {
+        "id": 8,
+        "name":"Fjallraven"
+    },
+    {
+        "id": 9,
+        "name":"Helly Hansen"
+    },
+    {
+        "id": 10,
+        "name":"Houdini"
+    },
+    {
+        "id": 11,
+        "name":"Icebreaker"
+    },
+    {
+        "id": 12,
+        "name":"Kelty"
+    },
+    {
+        "id": 13,
+        "name":"La Sportiva"
+    },
+    {
+        "id": 14,
+        "name":"Mammut"
+    },
+    {
+        "id": 15,
+        "name":"Marmot"
+    },
+    {
+        "id": 16,
+        "name":"Mountain Hardwear"
+    },
+    {
+        "id": 17,
+        "name":"MSR"
+    },
+    {
+        "id": 18,
+        "name":"Osprey"
+    },
+    {
+        "id": 19,
+        "name":"Outdoor Research"
+    },
+    {
+        "id": 20,
+        "name":"Patagonia"
+    },
+    {
+        "id": 21,
+        "name":"Petzl"
+    },
+    {
+        "id": 22,
+        "name":"Prana"
+    },
+    {
+        "id": 23,
+        "name":"Rab"
+    },
+    {
+        "id": 24,
+        "name":"REI"
+    },
+    {
+        "id": 25,
+        "name":"Salomon"
+    },
+    {
+        "id": 26,
+        "name":"Smartwool"
+    },
+    {
+        "id": 27,
+        "name":"The North Face"
+    }
+]
