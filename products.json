@@ -1,0 +1,61 @@
+
+[
+    {
+        "id": 1,
+        "brand": "Mountain Hardware",
+        "sku": 1111111111,
+        "name":"baselayer",
+        "category": "Jacket",
+        "colors": [],
+        "sizes": [],
+        "photo_url": ""
+    },
+    {
+        "id": 2,
+        "name":"fleece"
+    },
+    {
+        "id": 3,
+        "name":"full zip"
+    },
+    {
+        "id": 4,
+        "name":"half zip"
+    },
+    {
+        "id": 5,
+        "name":"hoodie"
+    },
+    {
+        "id": 6,
+        "name":"jacket"
+    },
+    {
+        "id": 7,
+        "name":"long sleeve shirt"
+    },
+    {
+        "id": 8,
+        "name":"pullover"
+    },
+    {
+        "id": 9,
+        "name":"quarter snap"
+    },
+    {
+        "id": 10,
+        "name":"quarter zip"
+    },
+    {
+        "id": 11,
+        "name":"shot sleeve shirts"
+    },
+    {
+        "id": 12,
+        "name":"sweater"
+    },
+    {
+        "id": 13,
+        "name":"vest"
+    }
+]
