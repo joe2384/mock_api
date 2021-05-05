@@ -4,58 +4,44 @@
         "id": 1,
         "brand": "Mountain Hardware",
         "sku": 1111111111,
-        "name":"baselayer",
+        "name":"Men's Exposure/2™ Gore-Tex Paclite® Jacket",
+        "retail_price": 200,
         "category": "Jacket",
-        "colors": [],
-        "sizes": [],
-        "photo_url": ""
+        "colors": ["sandblast", "dark storm", "black spruce", "blue horizon", "fiery red"],
+        "sizes": ["small", "medium", "large", "extra large", "extra extra large"],
+        "photo_url": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1929851_217_f?wid=768&hei=806&v=1611191088"
     },
     {
         "id": 2,
-        "name":"fleece"
+        "brand": "Mountain Hardware",
+        "sku": 2222222222,
+        "name":"Men's Stretch Ozonic™ Jacket",
+        "retail_price": 200,
+        "category": "Jacket",
+        "colors": ["sandblast", "dark storm", "black spruce", "blue horizon", "fiery red"],
+        "sizes": ["small", "medium", "large", "extra large", "extra extra large"],
+        "photo_url": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1765071_858_f?wid=768&hei=806&v=1611191088"
     },
     {
         "id": 3,
-        "name":"full zip"
+        "brand": "Mountain Hardware",
+        "sku": 3333333333,
+        "name":"Men's Exposure/2™ Gore Tex Pro Lite Jacket",
+        "retail_price": 450,
+        "category": "Jacket",
+        "colors": ["sandblast", "dark storm", "black spruce", "blue horizon", "fiery red"],
+        "sizes": ["small", "medium", "large", "extra large", "extra extra large"],
+        "photo_url": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1898761_443_f?wid=768&hei=806&v=1611191088"
     },
     {
         "id": 4,
-        "name":"half zip"
-    },
-    {
-        "id": 5,
-        "name":"hoodie"
-    },
-    {
-        "id": 6,
-        "name":"jacket"
-    },
-    {
-        "id": 7,
-        "name":"long sleeve shirt"
-    },
-    {
-        "id": 8,
-        "name":"pullover"
-    },
-    {
-        "id": 9,
-        "name":"quarter snap"
-    },
-    {
-        "id": 10,
-        "name":"quarter zip"
-    },
-    {
-        "id": 11,
-        "name":"shot sleeve shirts"
-    },
-    {
-        "id": 12,
-        "name":"sweater"
-    },
-    {
-        "id": 13,
-        "name":"vest"
+        "brand": "Mountain Hardware",
+        "sku": 3333333333,
+        "name":"Men's Exposure/2™ Gore-Tex Pro Jacket",
+        "retail_price": 650,
+        "category": "Jacket",
+        "colors": ["sandblast", "dark storm", "black spruce", "blue horizon", "fiery red"],
+        "sizes": ["small", "medium", "large", "extra large", "extra extra large"],
+        "photo_url": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1857291_750_f?wid=768&hei=806&v=1611191088"
     }
 ]
